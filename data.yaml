@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['fresh_apple', 'mild_apple', 'rotten_apple']
+
+roboflow:
+  workspace: fruitclassification-djarn
+  project: fruit_classification-uozc4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fruitclassification-djarn/fruit_classification-uozc4/dataset/1

@@ -1,4 +1,4 @@
-![P_curve](https://github.com/user-attachments/assets/b8457700-088c-41bd-90d9-adb6666c4c56)Here’s a `README.md` template for your image classification project using YOLOv8 for classifying apples into "fresh-apple," "rotten-apple," and "mild-apple" categories.
+’here is a `README.md` template for image classification project using YOLOv8 for classifying apples into "fresh-apple," "rotten-apple," and "mild-apple" categories.
 
 ---
 
